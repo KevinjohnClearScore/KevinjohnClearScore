@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @KevinjohnClearScore
-- 👀 I’m interested in ...
-- 💞️ I’m looking to collaborate on the Multi-Lingual programme
 - 📫 How to reach me via internal Slack channels
 
 <!---
